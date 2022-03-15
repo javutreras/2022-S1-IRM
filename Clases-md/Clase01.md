@@ -16,6 +16,21 @@
 ---
 
 **Ejemplo.**
+- Dato: Todo número mayor que $50$ es mayor que $3$.
+- Dato: $N$ es mayor que $3$.
+- Conclusión: ?
+
+---
+
+
+**Ejemplo.**
+- Dato: Todo número mayor que $50$ es mayor que $3$.
+- Dato: $M$ es menor que $3$.
+- Conclusión: ?
+
+---
+
+**Ejemplo.**
 - Dato: cualquier estudiante con promedio mayor a $5.0$ aprueba este ramo.
 - Dato: un estudiante $X$ aprueba el ramo.
 - Conclusión: ?
@@ -38,12 +53,6 @@
 **Ejemplo.**
 - Dato: los múltiplos de $127$ pertenecen a un conjunto $X$.
 - Dato: si un número es múltiplo de $254$, entonces es múltiplo de $127$.
-- Conclusión: ?
-
----
-**Ejemplo.**
-- Dato: todo número natural tiene un sucesor, que también es un número natural.
-- Dato: el sucesor de un número es mayor que el número original.
 - Conclusión: ?
 
 ---
