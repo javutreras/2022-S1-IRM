@@ -36,7 +36,7 @@ En caso contrario, se escribe $x\not\in C$ y se dice que $x$ *no pertenece a* $C
 
 | | Afirmación | Justificación |
 |----|----|----|
-|**(A1)**| Sea $x\in B$ arbitrario. | Preparamos una generalización sobre todos los elementos de $B$|
+|**(A1)**| Sea $x\in B$ arbitrario. | Preparar una generalización sobre todos los elementos de $B$|
 |**(A2)**| $A\cap B=B$ | Dato del problema|
 |**(A3)** | $x\in A\cap B$ | Deducción a partir de **(A1)** y **(A2)**|
 |**(A4)** | $x\in A$ &nbsp;y&nbsp; $x\in B$ | Definición de intersección en **(A3)**|
