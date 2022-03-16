@@ -23,3 +23,25 @@ En caso contrario, se escribe $x\not\in C$ y se dice que $x$ *no pertenece a* $C
 *Observación.*
 - La inclusión es una *relación* entre dos conjuntos; el hecho que un conjunto sea subconjunto de otro puede ser verdadero o falso. La pertenencia de un elemento a un conjunto también es una relación.
 - La unión y la intersección son *operaciones* entre dos conjuntos. Entregan otro conjunto como resultado.
+
+---
+
+### Herramienta clave para demostrar: la generalización
+
+*Idea.* Si se quiere probar que todos los elementos de un conjunto $X$ tienen una propiedad $P$, se puede, en vez de eso, mostrar que un elemento *arbitrario* y *general* del conjunto $X$ tiene la propiedad $P$.
+
+**Ejemplo.** Si $A$ y $B$ son dos conjuntos y se tiene $A\cap B = B$, mostrar que $B\subseteq A$.
+
+*Desarrollo.* Consultando la definición: se quiere poder concluir que todo elemento que pertenece a $B$ pertenece también a $A$.
+
+| | Afirmación | Justificación |
+|----|----|----|
+|**(A1)**| Sea $x\in B$ arbitrario. | Preparamos una generalización sobre todos los elementos de $B$|
+|**(A2)**| $A\cap B=B$ | Dato del problema|
+|**(A3)** | $x\in A\cap B$ | Deducción a partir de **(A1)** y **(A2)**|
+|**(A4)** | $x\in A$ &nbsp;y&nbsp; $x\in B$ | Definición de intersección en **(A3)**|
+|**(A5)** | $x\in A$ | Deducción a partir de **(A4)**
+
+A partir de **(A1)** se deduce **(A5)**. Es decir, se tiene que si $x\in B$ entonces $x\in A$.  Como $x$ es un elemento cualquiera de $B$, por generalización se concluye que todo elemento de $B$ está en $A$.
+
+Es decir, $B\subseteq A$.
