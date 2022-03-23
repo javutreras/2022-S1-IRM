@@ -1,0 +1,28 @@
+﻿## Relaciones binarias
+
+**Definición.** Sean $A$, $B$ dos conjuntos. Su *producto cartesiano* es el conjunto $A\times B$ formado por todos los pares de la forma $(a,b)$, con $a\in A$ &nbsp;y&nbsp;$b\in B$.
+
+*Observación.* En un par, a diferencia de en un conjunto, el orden y cantidad de los elementos importa: $(x,y)\neq (y,x)$.
+
+---
+
+*Idea intuitiva.* Una relación binaria entre dos conjuntos $A$ &nbsp;y&nbsp; $B$ es una asociación que conecta elementos de $A$ con elementos de $B$. No hay restricciones para estas conexiones - un elemento de $A$ podría estar conectado con múltiples elementos de $B$, con uno solo, incluso con ninguno; y viceversa.
+
+---
+
+**Definición.** Sean $A$, $B$ dos conjuntos. Una *relación binaria* entre elementos de $A$ y de $B$ es un conjunto $R$ formado por pares de la forma $(x,y)$, con $x\in A$, $y\in B$. Es decir, $R\subseteq A\times B$.
+
+*Notación.* Si un par $(a,b)$ pertenece a una relación $R$, decimos que $a$ y $b$ *están relacionados por* $R$, y se escribe $aRb$.
+
+---
+
+**Definición.** Sea $R$ una relación binaria entre elementos de $A$ y $B$. Se definen los conjuntos *imagen directa de $a\in A$*: $$R(a)=\{x\,:\,(a,x)\in R\}$$
+e *imagen inversa de $b\in B$*: $$R^{-1}(b)=\{x\,:\,(x,b)\in R\}$$
+
+**Definición.** La misma definición anterior se puede realizar a subconjuntos. Se definen la *imagen directa de $A_0\subseteq A$*: $$R(A_0)=\bigcup_{a\in A_0}R(a)$$
+y la *imagen inversa de $B_0\subseteq B$*: $$R^{-1}(B_0)=\bigcup_{b\in B_0}R^{-1}(b)$$
+
+---
+
+**Definición.** Sea $R$ una relación binaria entre elementos de $A$ y $B$. Si para cada $a\in A$ el conjunto imagen directa $R(a)$ tiene exactamente un elemento, decimos que $R$ es una *función* $R:A\to B$, y a ese único elemento lo llamamos *la imagen* de $a$ bajo $R$, y lo denotamos también como $R(a)$.
+
