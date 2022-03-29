@@ -18,11 +18,3 @@
 
 **Definición.** Sea $R$ una relación binaria entre elementos de $A$ y $B$. Se definen los conjuntos *imagen directa de $a\in A$*: $$R(a)=\{x\,:\,(a,x)\in R\}$$
 e *imagen inversa de $b\in B$*: $$R^{-1}(b)=\{x\,:\,(x,b)\in R\}$$
-
-**Definición.** La misma definición anterior se puede realizar a subconjuntos. Se definen la *imagen directa de $A_0\subseteq A$*: $$R(A_0)=\bigcup_{a\in A_0}R(a)$$
-y la *imagen inversa de $B_0\subseteq B$*: $$R^{-1}(B_0)=\bigcup_{b\in B_0}R^{-1}(b)$$
-
----
-
-**Definición.** Sea $R$ una relación binaria entre elementos de $A$ y $B$. Si para cada $a\in A$ el conjunto imagen directa $R(a)$ tiene exactamente un elemento, decimos que $R$ es una *función* $R:A\to B$, y a ese único elemento lo llamamos *la imagen* de $a$ bajo $R$, y lo denotamos también como $R(a)$.
-

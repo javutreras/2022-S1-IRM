@@ -7,3 +7,5 @@
 [Clase 03 - Métodos de demostración](https://javutreras.github.io/2022-S1-IRM/Clases/Clase03.html)
 
 [Clase 04 - Relaciones binarias](https://javutreras.github.io/2022-S1-IRM/Clases/Clase04.html)
+
+[Clase 05 - Propiedades de las relaciones binarias](https://javutreras.github.io/2022-S1-IRM/Clases/Clase05.html)
