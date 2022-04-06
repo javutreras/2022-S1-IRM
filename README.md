@@ -13,3 +13,5 @@
 [Clase 06 - Conjuntos parcialmente ordenados](https://javutreras.github.io/2022-S1-IRM/Clases/Clase06.html)
 
 [Clase 07 - Axiomas de los números naturales](https://javutreras.github.io/2022-S1-IRM/Clases/Clase07.html)
+
+[Clase 08 - Más ejemplos de definiciones recursivas](https://javutreras.github.io/2022-S1-IRM/Clases/Clase08.html)
