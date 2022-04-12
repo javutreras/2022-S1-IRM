@@ -15,3 +15,5 @@
 [Clase 07 - Axiomas de los números naturales](https://javutreras.github.io/2022-S1-IRM/Clases/Clase07.html)
 
 [Clase 08 - Más ejemplos de definiciones recursivas](https://javutreras.github.io/2022-S1-IRM/Clases/Clase08.html)
+
+[Clase 09 - Demostración por inducción](https://javutreras.github.io/2022-S1-IRM/Clases/Clase09.html)
