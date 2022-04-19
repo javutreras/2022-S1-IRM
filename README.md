@@ -21,3 +21,5 @@
 [Clase 10 - Principios de conteo](https://javutreras.github.io/2022-S1-IRM/Clases/Clase10.html)
 
 - [Ejemplo adicional clase 10 - compresión de datos](https://javutreras.github.io/2022-S1-IRM/Clases/Clase10ex.html)
+
+[Clase 11 - Conteo y combinatoria](https://javutreras.github.io/2022-S1-IRM/Clases/Clase11.html)
