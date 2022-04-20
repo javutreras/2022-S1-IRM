@@ -66,7 +66,7 @@ $$\vdots$$
 
 **Teorema.** La cantidad de formas de realizar la elección de la situación es $$\frac{n!}{k!(n-k)!}$$ lo que se escribe $n\choose k$ y se conoce como el *coeficiente combinatorio de n sobre k*.
 
-*Observación.* El coeficiente combinatorio $n\choose k$ tiene una definición recursiva para $n\ge k\ge 0$: $$\begin{cases} {n\choose 0 }= 1 \\ {{n+1}\choose{k+1}} = \frac{n+1}{k+1}{n\choose k}\end{cases}$$
+*Observación.* El coeficiente combinatorio $n\choose k$ tiene una definición recursiva para $n\ge k\ge 0$: $$\begin{cases} {n\choose 0 }= 1 \\ {n+1\choose k+1} = \frac{n+1}{k+1}{n\choose k}\end{cases}$$
 
 
 
