@@ -26,4 +26,7 @@
 
 [Clase 12 - Coeficiente combinatorio](https://javutreras.github.io/2022-S1-IRM/Clases/Clase12.html)
 
-[Clase 13 - Coeficiente combinatorio (cont.) / Divisibilidad](https://javutreras.github.io/2022-S1-IRM/Clases/Clase13.html)
+[Clase 13 - Coeficiente combinatorio (cont.)](https://javutreras.github.io/2022-S1-IRM/Clases/Clase13.html)
+
+[Clase 14 - Coeficiente combinatorio (cont.) / Divisibilidad](https://javutreras.github.io/2022-S1-IRM/Clases/Clase14.html)
+
