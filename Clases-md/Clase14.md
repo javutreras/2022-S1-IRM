@@ -2,7 +2,7 @@
 
 ### Bonus: versión multinomial
 
-**Definición.** Si $k_1+k_2+\ldots +k_n=n$, el *coeficiente multinomial* se define $${n\choose k_1,k_2,\ldots ,k_n} = \frac{n!}{k_1!k_2!\ldots k_n!}$$
+**Definición.** Si $k_1+k_2+\ldots +k_m=n$, el *coeficiente multinomial* se define $${n\choose k_1,k_2,\ldots ,k_m} = \frac{n!}{k_1!k_2!\ldots k_m!}$$
 
 Las propiedades del coeficiente binomial tienen versiones más complejas, por ejemplo:
 

@@ -30,3 +30,5 @@
 
 [Clase 14 - Coeficiente combinatorio (cont.) / Divisibilidad](https://javutreras.github.io/2022-S1-IRM/Clases/Clase14.html)
 
+[Clase 15 - Máximo común divisor](https://javutreras.github.io/2022-S1-IRM/Clases/Clase15.html)
+
