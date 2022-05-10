@@ -32,3 +32,4 @@
 
 [Clase 15 - Máximo común divisor](https://javutreras.github.io/2022-S1-IRM/Clases/Clase15.html)
 
+[Clase 16 - Ecuaciones diofantinas](https://javutreras.github.io/2022-S1-IRM/Clases/Clase16.html)
