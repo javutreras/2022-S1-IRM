@@ -35,3 +35,5 @@
 [Clase 16 - Ecuaciones diofantinas](https://javutreras.github.io/2022-S1-IRM/Clases/Clase16.html)
 
 [Clase 18 - Números primos](https://javutreras.github.io/2022-S1-IRM/Clases/Clase18.html)
+
+[Clase 19 - Teorema fundamental de la aritmética](https://javutreras.github.io/2022-S1-IRM/Clases/Clase19.html)
