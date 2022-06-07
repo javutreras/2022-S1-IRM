@@ -41,3 +41,5 @@
 [Clase 20 - Congruencia numérica](https://javutreras.github.io/2022-S1-IRM/Clases/Clase20.html)
 
 [Clase 21 - Congruencia numérica (cont.)](https://javutreras.github.io/2022-S1-IRM/Clases/Clase21.html)
+
+[Clase 22 - Problemas propuestos](https://javutreras.github.io/2022-S1-IRM/Clases/Clase22.html)
