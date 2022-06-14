@@ -43,3 +43,5 @@
 [Clase 21 - Congruencia numérica (cont.)](https://javutreras.github.io/2022-S1-IRM/Clases/Clase21.html)
 
 [Clase 22 - Problemas propuestos](https://javutreras.github.io/2022-S1-IRM/Clases/Clase22.html)
+
+[Clase 24 - Números racionales](https://javutreras.github.io/2022-S1-IRM/Clases/Clase24.html)
