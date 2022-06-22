@@ -47,3 +47,5 @@
 [Clase 24 - Números racionales](https://javutreras.github.io/2022-S1-IRM/Clases/Clase24.html)
 
 [Clase 25 - Números reales](https://javutreras.github.io/2022-S1-IRM/Clases/Clase25.html)
+
+[Clase 26 - Cardinalidad y el infinito](https://javutreras.github.io/2022-S1-IRM/Clases/Clase25.html)
